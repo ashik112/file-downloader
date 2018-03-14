@@ -116,5 +116,5 @@ func DownloadFile(url string, dest string) {
 
 
 func main() {
-    DownloadFile("https://datasets.imdbws.com/title.ratings.tsv.gzp","./")
+    DownloadFile("https://datasets.imdbws.com/title.ratings.tsv.gzp","./downloads/")
 }
