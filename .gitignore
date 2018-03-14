@@ -2,3 +2,7 @@ debug
 downloads
 .vscode
 file-downloader.exe
+tsvreader.go
+decompress.go
+main_test.go
+main.go
