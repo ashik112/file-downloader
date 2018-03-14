@@ -1,4 +1,4 @@
-package filedownloader
+package downloader
 import (
 	"bytes"
 	"fmt"
